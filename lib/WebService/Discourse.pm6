@@ -1,6 +1,7 @@
 
 use v6;
 
+use HTTP::UserAgent;
 use WebService::Discourse::ApiKey;
 use WebService::Discourse::Backups;
 use WebService::Discourse::Badges;

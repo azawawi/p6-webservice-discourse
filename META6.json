@@ -7,6 +7,9 @@
     "license"       : "MIT",
     "name"          : "WebService::Discourse",
     "perl"          : "6.c",
+    "depends"       : [
+        "HTTP::UserAgent"
+    ],
     "provides"      : {
         "WebService::Discourse"                  : "lib/WebService/Discourse.pm6",
         "WebService::Discourse::ApiKey"          : "lib/WebService/Discourse/ApiKey.pm6",
