@@ -1,6 +1,6 @@
 # WebService::Discourse
 
- [![Build Status](https://travis-ci.org/azawawi/webservice-discourse.svg?branch=master)](https://travis-ci.org/azawawi/webservice-discourse) [![Build status](https://ci.appveyor.com/api/projects/status/github/azawawi/webservice-discourse?svg=true)](https://ci.appveyor.com/project/azawawi/webservice-discourse/branch/master)
+ [![Build Status](https://travis-ci.org/azawawi/p6-webservice-discourse.svg?branch=master)](https://travis-ci.org/azawawi/p6-webservice-discourse) [![Build status](https://ci.appveyor.com/api/projects/status/github/azawawi/p6-webservice-discourse?svg=true)](https://ci.appveyor.com/project/azawawi/p6-webservice-discourse/branch/master)
 
 Use [Discourse](https://discourse.org) [REST API](https://docs.discourse.org/)
 in Perl 6.
